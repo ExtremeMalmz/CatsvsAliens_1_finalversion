@@ -8,7 +8,7 @@ if __name__ == '__main__':
     if the name of the file is main.py it will run, otherwise not
     '''
     create_json()
-    first_boss_fight_main()
+    #first_boss_fight_main()
     #second_boss_fight_main()
     the_main()
     
